@@ -1,0 +1,17 @@
+﻿  JsonService.cpp
+c1xx : fatal  error C1083: Не удается открыть файл источник: JsonService.cpp: No such file or directory,
+  Service.cpp
+  main.cpp
+C:\Users\aaaa0\OneDrive\Рабочий стол\WeatherService\main.cpp(1,10): fatal  error C1083: Не удается открыть файл включение: JsonService.h: No such file or directory,
+  Weather.cpp
+C:\Users\aaaa0\OneDrive\Рабочий стол\WeatherService\Weather.cpp(14,15): error C2039: "print": не является членом "Weather".
+C:\Users\aaaa0\OneDrive\Рабочий стол\WeatherService\Weather.h(4,7): message : см. объявление "Weather"
+C:\Users\aaaa0\OneDrive\Рабочий стол\WeatherService\Weather.cpp(15,10): error C2065: temperature: необъявленный идентификатор
+C:\Users\aaaa0\OneDrive\Рабочий стол\WeatherService\Weather.cpp(15,33): error C2065: weather: необъявленный идентификатор
+C:\Users\aaaa0\OneDrive\Рабочий стол\WeatherService\Weather.cpp(15,52): error C2065: windSpeed: необъявленный идентификатор
+C:\Users\aaaa0\OneDrive\Рабочий стол\WeatherService\Weather.cpp(15,73): error C2065: clouds: необъявленный идентификатор
+C:\Users\aaaa0\OneDrive\Рабочий стол\WeatherService\Weather.cpp(15,91): error C2065: city: необъявленный идентификатор
+C:\Users\aaaa0\OneDrive\Рабочий стол\WeatherService\Weather.cpp(15,107): error C2065: lon: необъявленный идентификатор
+C:\Users\aaaa0\OneDrive\Рабочий стол\WeatherService\Weather.cpp(15,122): error C2065: lat: необъявленный идентификатор
+  XmlService.cpp
+  Создание кода...
