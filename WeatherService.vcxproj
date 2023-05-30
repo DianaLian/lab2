@@ -104,7 +104,11 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+<<<<<<< HEAD
       <AdditionalIncludeDirectories>C:\Users\aaaa0\OneDrive\Рабочий стол\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+=======
+      <AdditionalIncludeDirectories>C:\Users\aaaa0\OneDrive\Рабочий стол\src;C:\Users\aaaa0\OneDrive\Рабочий стол\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+>>>>>>> feature-xml
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -131,12 +135,20 @@
     <ClInclude Include="JsonService.h" />
     <ClInclude Include="Service.h" />
     <ClInclude Include="Weather.h" />
+<<<<<<< HEAD
+=======
+    <ClInclude Include="XmlService.h" />
+>>>>>>> feature-xml
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="JsonService.cpp" />
     <ClCompile Include="Service.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Weather.cpp" />
+<<<<<<< HEAD
+=======
+    <ClCompile Include="XmlService.cpp" />
+>>>>>>> feature-xml
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -13,6 +13,10 @@ private:
 	int clouds; // 100
 public:
 	Weather(double temperature, string weather, double windSpeed, int clouds, string city, double lon, double lat);
+<<<<<<< HEAD
 	void print();
 };
 
+=======
+};
+>>>>>>> feature-xml
